@@ -1,0 +1,2 @@
+rootProject.name = "SIWIKODE"
+include ':app'

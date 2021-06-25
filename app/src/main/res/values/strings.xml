@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SIWIKODE</string>
+    <string name="name_travel">Travel Name</string>
+    <string name="travel_title">Travel Title</string>
+    <string name="travel_rate">Travel Rating</string>
+    <string name="travel_type">Travel Type</string>
+    <string name="destination">Go to Destination</string>
+    <string name="opening_hours">Opening Hours</string>
+    <string name="address">Address</string>
+    <string name="travel_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="travel_phone">Travel Phone</string>
+    <string name="travel_image">Travel Image</string>
+    <string name="developer_name">Fiki Alamsyah</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="slogan">Discover Recreation Experience</string>
+    <string name="share">share</string>
+    <string name="developer_email">fikialamsyah21@gmail.com</string>
+    <string name="profile">profile</string>
+    <string name="change_theme">Change Theme</string>
+</resources>
